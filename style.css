@@ -1,0 +1,19 @@
+@import url("./styles/head.css");
+@import url("./styles/section2.css");
+@import url("./styles/section3.css");
+@import url("./styles/section4.css");
+@import url("./styles/baseboard.css");
+@import url("./styles-cardapio/cardapio1.css");
+@import url("./styles-cardapio/cardapio2.css");
+@import url("./styles-cardapio/cardapio3.css");
+@import url("./styles-cardapio/cardapio4.css");
+@import url("./styles-nos/nos1.css");
+
+
+:root {
+    --perola: #EEE2DE;
+    --pessego: #EA906C;
+    --vermelho: #B31312;
+    --azul-escuro: #2B2A4C;
+    --verde-cinza: #435B66;
+}
